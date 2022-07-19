@@ -15,5 +15,5 @@ services:
     ports:
       - 5432:5432
     environment:
-      POSTGRES_DB: bank1
+      POSTGRES_DB: Job
       POSTGRES_PASSWORD: postgres
